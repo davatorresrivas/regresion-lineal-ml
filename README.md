@@ -4,12 +4,12 @@ Proyecto académico para construir y evaluar un modelo de Regresión Lineal util
 
 ## Objetivo
 
-Estimar el `PUNT_GLOBAL` utilizando cuatro variables categóricas:
+Estimar el `punt_global` utilizando cuatro variables categóricas:
 
-- `FAMI_ESTRATOVIVIENDA`
-- `FAMI_PERSONASHOGAR`
-- `ESTU_GENERO`
-- `COLE_NATURALEZA`
+- `fami_estratovivienda`
+- `fami_personas hogar`
+- `estu_genero`
+- `cole_naturaleza`
 
 El modelo se utiliza con fines predictivos y descriptivos; no se interpretan los resultados como relaciones causales.
 
