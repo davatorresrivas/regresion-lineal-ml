@@ -1,0 +1,1 @@
+Los datos provienen de la API oficial de Datos Abiertos Colombia. Se puede ejecutar scripts/01_recoleccion_datos.py para descargarlos.

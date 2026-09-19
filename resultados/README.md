@@ -1,0 +1,1 @@
+Esta carpeta contiene resultados generados durante la ejecución del proyecto.
